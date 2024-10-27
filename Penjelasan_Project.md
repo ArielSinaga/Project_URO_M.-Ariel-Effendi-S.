@@ -1,0 +1,2 @@
+Project pertama yaitu OOP python tentang pembuatan sistem pembayaran bank dengan meng-input nomor akun, nama, dan saldo. Tersedia sistem setoran dan tarik serta periksa saldo
+Project kedua adalah sistem arduino. Sistem dibuat untuk menghidupkan lampu LED dari yang mati hingga hidup secara perlahan-lahan menggunakan potentiometer. Untuk project arduino bisa dilihat pada link berikut https://www.tinkercad.com/things/i3VXbG4qAwf-project-arduino
